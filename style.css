@@ -1,0 +1,33 @@
+p
+
+{
+    color:aliceblue;
+    font-size:15pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
+body
+{
+    color: blue;
+    background-color: rgb(48, 48, 48);
+    background-image: -moz-radial-gradient();
+}
+div
+{
+margin: auto;
+width: 800px;
+background-color: rgb(43, 43, 43);
+
+}
+.tytul{ 
+    color: aliceblue;
+    font-size: 25pt;
+}
+
+
+.text{
+    color:red;
+    font-size: 14pt;
+
+}
